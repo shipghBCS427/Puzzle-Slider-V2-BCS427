@@ -9,4 +9,4 @@ Move pieces vertically or horizontally to navigate the player piece towards the 
 
 # Gameplay
 
-https://youtu.be/icqPT4qvooE
+https://www.youtube.com/watch?v=rRWFBtU1yqI&ab_channel=GeorgeShipman
